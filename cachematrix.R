@@ -1,4 +1,4 @@
-## makecacheMatrix will create and cache the inverse matrix
+## makeCacheMatrix will create and cache the inverse matrix
 ## as per the assignment required
 
 ## get the list of the cache 
